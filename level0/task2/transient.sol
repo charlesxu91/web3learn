@@ -79,5 +79,4 @@ contract ReetrancyGuardTransient{
         bytes memory b = "";
         msg.sender.call(b);
     }
-
 }
